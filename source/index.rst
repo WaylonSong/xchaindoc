@@ -4,12 +4,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-xchain文档
+城域区块链基础设施链网协同平台
 ==================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: 雄安区块链实验室:
+   :caption: 城域区块链基础设施链网协同平台:
    :numbered:
 
    lab
@@ -72,7 +72,7 @@ xchain文档
    
 .. toctree::
    :maxdepth: 2
-   :caption: 命令参考手册:
+   :caption: BaaS平台操作手册:
    :numbered:
 
    reference/reference
