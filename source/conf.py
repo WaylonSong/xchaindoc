@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'xchain'
-copyright = '2020, pengyun'
-author = 'pengyun'
+project = '链网协同平台门户'
+copyright = '2023, unicom'
+author = 'xchain'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
